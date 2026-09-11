@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "modelPublisherGrant": "https://github.com/argosopentech/argos-translate/issues/533#issuecomment-5160080718",
+  "files": [
+    {
+      "path": "LICENSE-AlbionPacketExplorer.txt",
+      "bytes": 1068,
+      "sha256": "af2c3e7bbfd47be7a95f45aee02b2c9475fd456a1da216d8cadb7c80a149c8fe",
+      "source": "https://github.com/LuluStudioX/AlbionPacketExplorer/tree/faab74d7c70b0de78210be2f17e70573551405c6"
+    },
+    {
+      "path": "LICENSE-Argos-MIT.txt",
+      "bytes": 1085,
+      "sha256": "f90866ab74c1b756cc6f7420aed109f598320c9b660aeadbcec6458d0c1a4e1f",
+      "source": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/LICENSE"
+    },
+    {
+      "path": "LICENSE-aspnetcore.txt",
+      "bytes": 1139,
+      "sha256": "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b",
+      "source": "NuGet microsoft.aspnetcore.app.runtime.win-x64 10.0.12 / LICENSE.txt"
+    },
+    {
+      "path": "LICENSE-avx-mathfun.txt",
+      "bytes": 2569,
+      "sha256": "85ad62e479533f41102df2dac25df5b4ce6a086746bac11ae1eca7fa44479cca",
+      "source": "https://raw.githubusercontent.com/OpenNMT/CTranslate2/v4.8.2/third_party/avx_mathfun.h (initial license comment only)"
+    },
+    {
+      "path": "LICENSE-BS-thread-pool.txt",
+      "bytes": 1076,
+      "sha256": "712a867cc12ebfcdecf6cea097f5aa7ec5acaa435a8f818c9f370960df35acbf",
+      "source": "https://raw.githubusercontent.com/bshoshany/thread-pool/v5.1.0/LICENSE.txt"
+    },
+    {
+      "path": "LICENSE-cpu_features.txt",
+      "bytes": 12876,
+      "sha256": "af272c1b4dd08dd61d43e001d3134119d03ca7a2b057a64f7355fdf27fbea3dd",
+      "source": "https://raw.githubusercontent.com/google/cpu_features/8a494eb1e158ec2050e5f699a504fbc9b896a43b/LICENSE"
+    },
+    {
+      "path": "LICENSE-CTranslate2.txt",
+      "bytes": 1115,
+      "sha256": "54aa79d9fe3c09e67a16dcd95b9e88676405a6ec174efda31036983cf7672ecb",
+      "source": "https://raw.githubusercontent.com/OpenNMT/CTranslate2/v4.8.2/LICENSE"
+    },
+    {
+      "path": "LICENSE-dotnet-runtime.txt",
+      "bytes": 1139,
+      "sha256": "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b",
+      "source": "NuGet microsoft.netcore.app.runtime.win-x64 10.0.12 / LICENSE.TXT"
+    },
+    {
+      "path": "LICENSE-fmt.txt",
+      "bytes": 1466,
+      "sha256": "61f3c61f5cd6b9d82639658cd3ea016783bc87000f9827edbc776ac8af51acf2",
+      "source": "https://raw.githubusercontent.com/gabime/spdlog/76fb40d95455f249bd70824ecfcae7a8f0930fa3/include/spdlog/fmt/bundled/format.h (initial license comment only)"
+    },
+    {
+      "path": "LICENSE-half-float.txt",
+      "bytes": 1217,
+      "sha256": "7cda8678e683a682a3a621a31bc2e710c17cb09531632580e428ec92dc8cae15",
+      "source": "https://github.com/OpenNMT/CTranslate2/blob/d44d2d069eb88c7b7804da864c10c201501cb4a9/include/half_float/half.hpp"
+    },
+    {
+      "path": "LICENSE-nlohmann-json.txt",
+      "bytes": 1076,
+      "sha256": "86b998c792894ccb911a1cb7994f7a9652894e7a094c0b5e45be2f553f45cf14",
+      "source": "https://raw.githubusercontent.com/nlohmann/json/v3.11.2/LICENSE.MIT"
+    },
+    {
+      "path": "LICENSE-NSIS.txt",
+      "bytes": 15632,
+      "sha256": "388357c1215ff403c5ebde3a5ecd273e68f8b79a579996775245d1ee65442aba",
+      "source": "NSIS 3.12 publisher license; installer compiler"
+    },
+    {
+      "path": "LICENSE-oneDNN3.1.1-transitive-notices.txt",
+      "bytes": 29825,
+      "sha256": "9117585dfc6b5cd0fafc063312f28a86ec82eb97bf68316dcefcaaa7fc11428e",
+      "source": "https://raw.githubusercontent.com/oneapi-src/oneDNN/v3.1.1/THIRD-PARTY-PROGRAMS"
+    },
+    {
+      "path": "LICENSE-oneDNN3.1.1.txt",
+      "bytes": 11521,
+      "sha256": "dd12452e1ae11e3282271aa5895d8175296b83e936a027209f9399d26a407d0f",
+      "source": "https://raw.githubusercontent.com/oneapi-src/oneDNN/v3.1.1/LICENSE"
+    },
+    {
+      "path": "LICENSE-PacketDotNet.txt",
+      "bytes": 16726,
+      "sha256": "fab3dd6bdab226f1c08630b1dd917e11fcb4ec5e1e020e2c16f83a0a13863e85",
+      "source": "https://github.com/dotpcap/packetnet/tree/v1.4.8"
+    },
+    {
+      "path": "LICENSE-SentencePiece-absl.txt",
+      "bytes": 11365,
+      "sha256": "d3e2f59e1d71176dfdb555ece6a41f7a5aa0f52ff21211010ace314f57695f6b",
+      "source": "https://raw.githubusercontent.com/google/sentencepiece/v0.2.1/third_party/absl/LICENSE"
+    },
+    {
+      "path": "LICENSE-SentencePiece-darts_clone.txt",
+      "bytes": 1481,
+      "sha256": "155f59997298ee336602c49f9c1110f268ac394ca2197eb02647a3555935ad52",
+      "source": "https://raw.githubusercontent.com/google/sentencepiece/v0.2.1/third_party/darts_clone/LICENSE"
+    },
+    {
+      "path": "LICENSE-SentencePiece-esaxx.txt",
+      "bytes": 1112,
+      "sha256": "7c28553d1d3312d65fe309f76a22ebaf33a3d76c8c1e3b98a88ee4654ecb53db",
+      "source": "https://raw.githubusercontent.com/google/sentencepiece/v0.2.1/third_party/esaxx/LICENSE"
+    },
+    {
+      "path": "LICENSE-SentencePiece-protobuf-lite.txt",
+      "bytes": 1732,
+      "sha256": "6e5e117324afd944dcf67f36cf329843bc1a92229a8cd9bb573d7a83130fea7d",
+      "source": "https://raw.githubusercontent.com/google/sentencepiece/v0.2.1/third_party/protobuf-lite/LICENSE"
+    },
+    {
+      "path": "LICENSE-SentencePiece.txt",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "source": "https://raw.githubusercontent.com/google/sentencepiece/v0.2.1/LICENSE"
+    },
+    {
+      "path": "LICENSE-SharpPcap.txt",
+      "bytes": 1131,
+      "sha256": "a1be933c9a5bd0362dd0ed9a2b631fc60d47400231b1c12b9448cf76dceb4453",
+      "source": "https://github.com/dotpcap/sharppcap/tree/v6.3.1"
+    },
+    {
+      "path": "LICENSE-spdlog.txt",
+      "bytes": 1348,
+      "sha256": "a7241a379cb98d37788f82c2fc2e484c3ae85dae881fd3406f0637644850926f",
+      "source": "https://raw.githubusercontent.com/gabime/spdlog/76fb40d95455f249bd70824ecfcae7a8f0930fa3/LICENSE"
+    },
+    {
+      "path": "LICENSE-windowsdesktop.txt",
+      "bytes": 1137,
+      "sha256": "a89886665765362eb77e0f8e26602c924520041d1711b2eedc136434fe4d01ab",
+      "source": "NuGet microsoft.windowsdesktop.app.runtime.win-x64 10.0.12 / LICENSE"
+    },
+    {
+      "path": "NOTICE-BS-thread-pool.txt",
+      "bytes": 2049,
+      "sha256": "8d0d4c0f805fbff19d9d69dfcba79a117dd3365125407eabb93e85144e6989d4",
+      "source": "https://raw.githubusercontent.com/OpenNMT/CTranslate2/v4.8.2/third_party/BS_thread_pool.hpp (initial attribution comment only)"
+    },
+    {
+      "path": "NOTICES-aspnetcore.txt",
+      "bytes": 56748,
+      "sha256": "307d014f65d8482314f1400ddeae7a0cbabb96c2207bcc77f6233cc10588e5d9",
+      "source": "NuGet microsoft.aspnetcore.app.runtime.win-x64 10.0.12 / THIRD-PARTY-NOTICES.TXT"
+    },
+    {
+      "path": "NOTICES-dotnet-runtime.txt",
+      "bytes": 78041,
+      "sha256": "6d15e10a101c6bfff2ab4429ed061bf76c456fc4b23ad6b03e0d0f8377148a21",
+      "source": "NuGet microsoft.netcore.app.runtime.win-x64 10.0.12 / THIRD-PARTY-NOTICES.TXT"
+    },
+    {
+      "path": "NOTICES-windowsdesktop.txt",
+      "bytes": 2765,
+      "sha256": "d9d14b48bbeaf60d2b528d8c086af1baaab70f2ebbaaf1ccb11c1c16a08bdaeb",
+      "source": ".NET SDK 10.0.401 Microsoft.NET.Sdk.WindowsDesktop / THIRD-PARTY-NOTICES.TXT"
+    }
+  ]
+}

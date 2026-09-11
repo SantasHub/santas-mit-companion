@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "component": "CTranslate2 4.8.2 Windows x64 CPU",
+  "bytes": 23920640,
+  "sha256": "0a763489334903b4d9d29377018d207cc68c50980a97cef2e3349d9c57ccf13a",
+  "ctranslate2Commit": "d44d2d069eb88c7b7804da864c10c201501cb4a9",
+  "oneDnnCommit": "64f6bcbcbab628e96f33a62c3e975f8535a7bde4",
+  "cpuFeaturesCommit": "8a494eb1e158ec2050e5f699a504fbc9b896a43b",
+  "spdlogCommit": "76fb40d95455f249bd70824ecfcae7a8f0930fa3",
+  "compiler": "MSVC 14.44.35207 x64 Release /MD /GR /EHsc /utf-8 /d2FH4-",
+  "windowsSdk": "10.0.26100.0",
+  "ctranslate2Options": {
+    "WITH_MKL": "OFF",
+    "WITH_DNNL": "ON",
+    "BUILD_SHARED_LIBS": "ON",
+    "WITH_HIP": "OFF",
+    "ENABLE_CPU_DISPATCH": "ON",
+    "WITH_CUDNN": "OFF",
+    "WITH_TENSOR_PARALLEL": "OFF",
+    "WITH_CUDA": "OFF",
+    "OPENMP_RUNTIME": "NONE",
+    "WITH_FLASH_ATTN": "OFF"
+  },
+  "oneDnnOptions": {
+    "DNNL_GPU_RUNTIME": "NONE",
+    "ONEDNN_BUILD_GRAPH": "OFF",
+    "DNNL_ENABLE_PRIMITIVE": "CONVOLUTION;REORDER;MATMUL",
+    "DNNL_ENABLE_JIT_PROFILING": "OFF",
+    "DNNL_ENABLE_WORKLOAD": "INFERENCE",
+    "DNNL_ENABLE_ITT_TASKS": "OFF",
+    "DNNL_CPU_RUNTIME": "SEQ",
+    "DNNL_LIBRARY_TYPE": "STATIC"
+  },
+  "wrapperSha256": "9450d14d9f1e5d7d1d09ce2dd035ccf4121c82d3f2ae22d8f0e1cb7063c3cd29",
+  "buildProcedure": "docs/CPU-RUNTIME-BUILD.md"
+}
