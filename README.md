@@ -8,12 +8,12 @@ your PC. This repository hosts downloads and installation instructions.
 
 ## Download for Windows
 
-### [Get the Windows installer — 0.4.0 Preview 5](https://github.com/SantasHub/santas-mit-companion/releases/tag/v0.4.0-preview.5)
+### [Get the Windows installer — 0.4.0 Preview 6](https://github.com/SantasHub/santas-mit-companion/releases/tag/v0.4.0-preview.6)
 
 **Windows 10/11 · 64-bit x64 · 388 MB · Unsigned development preview**
 
 Open the release above, then under **Assets** choose
-**SantasMIT-LocalCompanion-0.4.0-preview5-release-setup.exe**.
+**SantasMIT-LocalCompanion-0.4.0-preview6-release-setup.exe**.
 Setup creates a **Santa's MIT Companion** desktop shortcut with the goblin selfie icon.
 The **Source code (zip)** and **Source code (tar.gz)** entries are repository
 archives; they do not install the Companion.
