@@ -163,6 +163,12 @@
       "bytes": 2765,
       "sha256": "d9d14b48bbeaf60d2b528d8c086af1baaab70f2ebbaaf1ccb11c1c16a08bdaeb",
       "source": ".NET SDK 10.0.401 Microsoft.NET.Sdk.WindowsDesktop / THIRD-PARTY-NOTICES.TXT"
+    },
+    {
+      "path": "LICENSE-py3langid.txt",
+      "bytes": 1676,
+      "sha256": "1694ffed7731df5c6e3d95ad5aa2398bf64f9377636ead34a23f385dd3598a0c",
+      "source": "py3langid 0.3.0 publisher wheel, py3langid-0.3.0.dist-info/licenses/LICENSE; https://github.com/adbar/py3langid"
     }
   ]
 }

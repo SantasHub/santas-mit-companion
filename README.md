@@ -8,12 +8,12 @@ your PC. This repository hosts downloads and installation instructions.
 
 ## Download for Windows
 
-### [Get the Windows installer — 0.4.0 Preview 3](https://github.com/SantasHub/santas-mit-companion/releases/tag/v0.4.0-preview.3)
+### [Get the Windows installer — 0.4.0 Preview 4](https://github.com/SantasHub/santas-mit-companion/releases/tag/v0.4.0-preview.4)
 
 **Windows 10/11 · 64-bit x64 · 388 MB · Unsigned development preview**
 
 Open the release above, then under **Assets** choose
-**SantasMIT-LocalCompanion-0.4.0-preview3-release-setup.exe**.
+**SantasMIT-LocalCompanion-0.4.0-preview4-release-setup.exe**.
 Setup creates a **Santa's MIT Companion** desktop shortcut with the goblin selfie icon.
 The **Source code (zip)** and **Source code (tar.gz)** entries are repository
 archives; they do not install the Companion.
@@ -44,7 +44,8 @@ before choosing whether to install. Do not disable Windows protection features.
 
 Spanish ↔ English and Portuguese ↔ English are included. **Add languages** in
 the companion offers French, German and Russian. Translation works offline
-after installation. You choose what to translate and manually copy/send replies.
+after installation. Incoming messages in your selected language translate
+automatically while Chat Translator is visible. You manually copy/send replies.
 
 ## Inventory
 
@@ -53,12 +54,27 @@ tab you want included. Wait for **Received**, review that tab and save it. Unrea
 tabs retain their previously saved contents. Albion may reuse cached contents;
 the companion cannot request a resend or operate the game for you.
 
+The website's **What can I make?** section uses saved materials across Crafting,
+Refining, and Food & Potions. Review exact ingredient identities, select your
+calculator profile and compare production options. Plans show pickup locations,
+missing purchases, costs and production order, with shared materials, silver and
+Focus limits. Matching and planning stay in the browser; economic results require
+current market evidence. A saved bank is a snapshot, so check for moved or spent
+items before relying on combined quantities.
+
 ## Chat Translator
 
 Received player messages appear together in a temporary feed, including whispers.
 Messages expire after one minute and the feed holds at most 128 messages. It may
 differ from the chat tab selected inside Albion. You can also paste text manually.
 Party and Alliance receipt have not yet been verified in live testing.
+
+Select the incoming source and target languages to read automatic translations
+beneath the originals. The included offline language detector leaves other
+languages unchanged; short or mixed messages may require **Translate as…**.
+Use **Pause auto-translation** when needed. Incoming and reply language controls
+are independent. Navigation, pause and expiry stop or invalidate pending work;
+automatic translation does not enable observation or send replies for you.
 
 ## Connection and data
 

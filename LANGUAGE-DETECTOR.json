@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "component": "py3langid 0.3.0 offline language identification",
+  "wheel": {
+    "kind": "wheel",
+    "file": "py3langid-0.3.0-py3-none-any.whl",
+    "url": "https://files.pythonhosted.org/packages/9d/1c/8212ea872d236af0aea37043fb6feeaa9a43449183782b19d342f8ddd343/py3langid-0.3.0-py3-none-any.whl",
+    "sha256": "38f022eec31cf9a2bf6f142acb2a9b350fd7d0d5ae7762b1392c6d3567401fd3",
+    "bytes": 746125,
+    "version": "0.3.0",
+    "license": "BSD-3-Clause; original BSD attribution retained",
+    "checksumSource": "https://pypi.org/pypi/py3langid/0.3.0/json"
+  },
+  "licenseFile": "licenses/LICENSE-py3langid.txt",
+  "runtimeDownload": false
+}

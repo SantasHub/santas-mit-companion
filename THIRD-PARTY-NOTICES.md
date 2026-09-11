@@ -109,6 +109,11 @@ Schema references, pins and evidence limits are recorded in the source document
 - NSIS 3.12 installer runtime: zlib/libpng license; installer compiler includes
   separately licensed components. https://nsis.sourceforge.io/License
 
+- py3langid 0.3.0: BSD-3-Clause license. Used offline for incoming chat language
+  detection. The pinned wheel and embedded model are included in the installer;
+  no runtime download is required. See `LANGUAGE-DETECTOR.json` and
+  `licenses/LICENSE-py3langid.txt`.
+
 The narrow Photon envelope inspector was implemented with reference to the public
 Albion Data Project's `client/photon/parser.go` framing documentation and parser
 tests. It does not copy the general-purpose deserializer or support encrypted
