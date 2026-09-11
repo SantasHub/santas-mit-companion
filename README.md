@@ -11,14 +11,15 @@ A clean Windows installation test and publisher signing are still pending.
 Windows may display an unknown-publisher warning; check the published SHA-256
 before choosing whether to install. Do not disable Windows protection features.
 
-[Download and release notes](https://github.com/SantasHub/santas-mit-companion/releases/tag/v0.4.0-preview.1)
+[Download and release notes](https://github.com/SantasHub/santas-mit-companion/releases/tag/v0.4.0-preview.2)
 
 [Third-party notices](THIRD-PARTY-NOTICES.md) · [License texts](licenses/)
 
 ## Getting started
 
 1. Download the installer from the release above and run it.
-2. Open **Santa's MIT Companion** and check its setup status. If Npcap or the
+2. Open **Santa's MIT Companion** from the new desktop shortcut (or Start menu)
+   and check its setup status. If Npcap or the
    Microsoft Visual C++ runtime is missing, follow the official download link
    shown in setup, then select **Check setup again**. Npcap is not bundled.
 3. Enable **Inventory** and/or **Chat Translator**, and enable website access in
