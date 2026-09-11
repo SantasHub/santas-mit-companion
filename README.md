@@ -1,8 +1,22 @@
 # Santa's MIT Companion
 
+<img src="companion.png" alt="Companion goblin selfie icon" width="128" height="128">
+
 The Windows companion powers **Inventory** and **Chat Translator** on
 [Santa's MIT](https://santasmit.com). Translation and saved Inventory stay on
 your PC. This repository hosts downloads and installation instructions.
+
+## Download for Windows
+
+### [Get the Windows installer — 0.4.0 Preview 3](https://github.com/SantasHub/santas-mit-companion/releases/tag/v0.4.0-preview.3)
+
+**Windows 10/11 · 64-bit x64 · 388 MB · Unsigned development preview**
+
+Open the release above, then under **Assets** choose
+**SantasMIT-LocalCompanion-0.4.0-preview3-release-setup.exe**.
+Setup creates a **Santa's MIT Companion** desktop shortcut with the goblin selfie icon.
+The **Source code (zip)** and **Source code (tar.gz)** entries are repository
+archives; they do not install the Companion.
 
 ## Development preview
 
@@ -10,8 +24,6 @@ This is an unsigned development preview for **64-bit Windows 10 and Windows 11**
 A clean Windows installation test and publisher signing are still pending.
 Windows may display an unknown-publisher warning; check the published SHA-256
 before choosing whether to install. Do not disable Windows protection features.
-
-[Download and release notes](https://github.com/SantasHub/santas-mit-companion/releases/tag/v0.4.0-preview.2)
 
 [Third-party notices](THIRD-PARTY-NOTICES.md) · [License texts](licenses/)
 
